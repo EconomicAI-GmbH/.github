@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://economicai.com/images/logo.png" alt="Economic AI" width="200">
+
 # Economic AI
 
 ### State-of-the-Art Causal AI & Machine Learning Solutions
@@ -95,12 +97,23 @@ We offer professional training in Causal Machine Learning:
 
 ### Trusted By
 
-**Novartis** · **Booking.com** · **SAP** · **Volkswagen** · **Porsche** · **Škoda**
+<p>
+<img src="https://economicai.com/images/partners/novartis.png" alt="Novartis" height="40">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://economicai.com/images/partners/booking.png" alt="Booking.com" height="40">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://economicai.com/images/partners/sap.png" alt="SAP" height="40">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://economicai.com/images/partners/vw.png" alt="Volkswagen" height="40">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://economicai.com/images/partners/porsche.png" alt="Porsche" height="40">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://economicai.com/images/partners/skoda.png" alt="Škoda" height="40">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://economicai.com/images/partners/moia.png" alt="MOIA" height="40">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://economicai.com/images/partners/ifood.png" alt="iFood" height="40">
+</p>
 
 ---
 
 [![Contact Us](https://img.shields.io/badge/Contact_Us-Book_a_Demo-00a86b?style=for-the-badge)](https://economicai.com/contact)
 [![Why Causal AI](https://img.shields.io/badge/Learn_More-Why_Causal_AI%3F-5865F2?style=for-the-badge)](https://economicai.com/why-causal-ai)
+
+<img src="https://economicai.com/images/logo.png" alt="Economic AI" width="80">
 
 **Economic AI GmbH** · Regensburg, Germany
 
