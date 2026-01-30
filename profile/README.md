@@ -4,6 +4,10 @@
 <img src="https://economicai.com/images/logo.png" alt="Economic AI" width="200">
 </a>
 
+<a href="https://github.com/DoubleML">
+<img src="https://img.shields.io/badge/GitHub-DoubleML-181717?style=for-the-badge&logo=github&logoColor=white" alt="DoubleML on GitHub">
+</a>
+
 ### State-of-the-Art Causal AI & Machine Learning Solutions
 
 [![Website](https://img.shields.io/badge/Website-economicai.com-00a86b?style=for-the-badge&logo=google-chrome&logoColor=white)](https://economicai.com)
