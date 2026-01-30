@@ -55,7 +55,7 @@ The leading open-source framework for **Double/Debiased Machine Learning**
 <td width="50%" align="center">
 
 <a href="https://causalml-book.org/">
-<img src="https://causalml-book.org/assets/logo.png" alt="CausalML Book" width="120">
+<img src="https://causalml-book.org/assets/logo-dark.png" alt="CausalML Book" width="120">
 </a>
 
 ### [Applied Causal Inference](https://causalml-book.org/)
